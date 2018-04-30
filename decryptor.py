@@ -1,4 +1,3 @@
-##Brandon Gordon : Student ID: 10447737
 ##Using Python 3.6.4
 
 from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
