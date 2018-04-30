@@ -1,4 +1,4 @@
-# encryptonator
+# Encryptonator / Decryptonator
 An encryption and decryption program that utilises AES-256-CBC 
 
 The user message is padded with a padding character to make it a multiple of 16 before it is encrypted.
